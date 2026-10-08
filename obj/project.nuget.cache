@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrL7VaQiDNojzpKc+JMaRPHpaOFG4BHiGlyq0yDv2+xNFMTDKSNAiIWrx/8k9ey3+ZJN5OY07zTSgFA9ySJX0A==",
+  "success": true,
+  "projectFilePath": "/home/k41m/Documentos/ETEC/POO C#/SpaceWars/SpaceWars.csproj",
+  "expectedPackageFiles": [
+    "/home/k41m/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
